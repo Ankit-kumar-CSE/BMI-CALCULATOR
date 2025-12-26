@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.all{
+    border: 2px solid rgb(251, 251, 251);
+    border-radius: 10%;
+    background-color: #99d6f2;
+    height: 450px;
+    width: 450px;
+    margin: auto;
+    margin-top: 100px;
+}
+h1{
+    margin:20px; 
+    margin-top: 30px;
+}
+label{
+    margin: 15px;
+}
+#result{
+    margin: 20px;
+    margin-left: 65px;
+}
+.weight{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.height{
+    margin-left:50px;
+}
+#print{
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 65px;
+    font-size: 30px;
+}
