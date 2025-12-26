@@ -37,7 +37,7 @@ The results are categorized as follows:
 
 1. Clone the repository:
 Bash
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Ankit-kumar-CSE/bmi-calculator.git
 2. Open the project:
 Navigate to the folder and open index.html in your favorite browser.
 3. Calculate:
